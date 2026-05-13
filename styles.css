@@ -358,6 +358,14 @@ img {
   color: #ffffff;
 }
 
+.availability .resume-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  align-items: flex-start;
+  margin-top: 0.75rem;
+}
+
 .site-footer {
   padding: 1.5rem 0 2.5rem;
   color: var(--muted);
